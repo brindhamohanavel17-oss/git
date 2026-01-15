@@ -1,1 +1,1 @@
-console.log("Welcome to the git course");
+console.log("Welcome to the git course 2 hours");
